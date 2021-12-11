@@ -8,6 +8,6 @@
     ],
     "browser_action":{
         "default_title": "Sentence Scraper for Anki",
-        "default_popup":"popup/main.html"
+        "default_popup":"popup/popup.html"
     }
 }
