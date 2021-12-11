@@ -2,8 +2,8 @@
     "manifest_version": 2,
     "name": "Sentence Scraper",
     "version": "0.1",
-    "Description":"This extension helps people who uses anki to learn new language by allowing them to scrape unknown words or phrases from youtube subtitles and sites like reddit, and use theses sentences on anki.",
-    "permission":[
+    "description":"This extension helps people who uses anki to learn new language by allowing them to scrape unknown words or phrases from youtube subtitles and sites like reddit, and use theses sentences on anki.",
+    "permissions":[
         "activeTab"
     ],
     "browser_action":{
