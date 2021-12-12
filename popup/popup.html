@@ -6,7 +6,21 @@
 </head>
 <body>
     <div class="container" id="popup-content">
-        <h1 class="text-primary">Hello world</h1>
+        <form>
+            <div class="mb-3">
+                <label class="form-label" for="">Insert here your sentence</label>
+                <input id="sentence" type="text" class="form-control" name="sentence">
+            </div>
+        
+            <div class="mb-3">
+                <label for="" class="form-label">Insert the unknow word</label>
+                <input type="text" id="word" class="form-control" name="word">
+            </div>
+
+            <button class="btn btn-success" id="send">Save sentence</button>
+        </form>
     </div>
+
+<script src="popup.js"></script>
 </body>
 </html>
