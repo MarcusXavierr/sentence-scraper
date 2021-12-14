@@ -6,6 +6,11 @@
     "permissions":[
         "activeTab"
     ],
+
+    "options_ui": {
+        "page": "background/index.html",
+        "browser_style": true
+    },
     "browser_action":{
         "default_title": "Sentence Scraper for Anki",
         "default_popup":"popup/popup.html"
